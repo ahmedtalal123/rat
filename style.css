@@ -1,0 +1,44 @@
+h1{
+    border-color: darkviolet;
+    text-align: center;
+    color: blue;
+    border-style: double;
+}
+
+#li1{
+    color: blue;
+    text-align: center;
+    border-style: double;
+    border-color: blue;
+} 
+
+ #li2{
+     color: blue;
+     text-align: center;
+     background-color: 
+ }
+ 
+ #li3{
+    color: blue;
+    text-align: center;
+    background-color: 
+     
+ }
+
+ #li4{
+    color: blue;
+    text-align: center;
+    background-color:
+ }
+
+ #li5{
+    color: blue;
+    text-align: center;
+    background-color:
+ }
+
+ body{
+   background-image:  url(https://thumbs.dreamstime.com/z/red-car-stands-out-many-white-cars-image-shot-ultra-high-resolution-45066290.jpg); 
+   background-repeat: no-repeat;
+   background-size: 1366px 738px; 
+}
